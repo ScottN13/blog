@@ -20,7 +20,7 @@ description: "uhh yeah funny" # This will show up in places like twitter, linked
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "jekyll-dash"
+remote-theme: "jekyll-dash"
 
 kramdown:
   syntax_highlighter_opts:
