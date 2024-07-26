@@ -37,9 +37,13 @@ titles_from_headings:
   strip_title: true
   collections: true
 
+header_pages:
+  - redirect.html
+
 defaults:
   - scope:
       path: ""
       type: post
     values:
       tags: Other
+      image: https://avatars.githubusercontent.com/u/87974560?v=4
