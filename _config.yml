@@ -22,6 +22,8 @@ description: "uhh yeah funny" # This will show up in places like twitter, linked
 #########################################################################################
 theme: "minima"
 
+comments_repo: ScottN13/blog # comments/issues
+
 kramdown:
   syntax_highlighter_opts:
     disable: true

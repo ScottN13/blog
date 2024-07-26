@@ -26,6 +26,11 @@ layout: default
     {% include navlinks.html %}
   </div>
 
+  <!--This is the nav bottom bar-->
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+
+  <!--This is the comments section-->
+
   <script src="https://utteranc.es/client.js"
         repo="ScottN13/blog"
         issue-term="pathname"
@@ -34,5 +39,4 @@ layout: default
         zasync>
   </script>
 
-  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
