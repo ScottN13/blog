@@ -18,10 +18,8 @@ description: "uhh yeah funny" # This will show up in places like twitter, linked
 #googleplus_username: +username
 #rss: rss
 
-#########################################################################################
-######### Nothing below needs to be changed (unless you know what you're doing) #########
-#########################################################################################
-theme: "minima"
+
+theme: "minima" # it might break if you change it.
 
 comments_repo: ScottN13/blog # comments/issues
 
@@ -39,6 +37,7 @@ titles_from_headings:
 
 header_pages:
   - redirect.html
+  - archive.html
 
 defaults:
   - scope:
