@@ -23,6 +23,9 @@ theme: "minima" # it might break if you change it.
 
 comments_repo: ScottN13/blog # comments/issues
 
+uttrances:
+  enable: true
+
 kramdown:
   syntax_highlighter_opts:
     disable: true
