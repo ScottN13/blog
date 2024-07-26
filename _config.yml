@@ -1,5 +1,5 @@
-title: "the blog | Scott Newman"
-author: "scott newman"
+title: "scott's blog"
+author: "Scott Newman"
 description: "uhh yeah funny" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
@@ -16,6 +16,7 @@ description: "uhh yeah funny" # This will show up in places like twitter, linked
 #pinterest_username: username
 #youtube_username: username
 #googleplus_username: +username
+#rss: rss
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
