@@ -1,9 +1,8 @@
 ---
 title: How to set the right amount of paging memory on Windows.
-tags: Windows Guides
+tags: Guides
 description: Made for modern Windows instalations.
 layout: post
-
 ---
 Hello! :wave:
 
