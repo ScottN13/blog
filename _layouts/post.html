@@ -17,12 +17,21 @@ layout: default
       {%- endif -%}</p>
   </header>
 
-  <div class="share-links">
-    {% include sharelinks.html %}
-  </div>  
+ 
 
   <div class="post-content e-content" itemprop="articleBody">
+    <h4 class="toc">Table of Contents</h4>
+    {% include toc.html html=content %}
+
+  <div class="share-links">
+    {% include sharelinks.html %}
+  </div>     
+
+    <p style="padding: 1.7%;"></p>
+
     {{ content }}
+    <!--{% include anchor_headings.html html=content anchorBody="#" %} -->
+    
     {% include navlinks.html %}
   </div>
 

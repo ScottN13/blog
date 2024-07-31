@@ -34,11 +34,16 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jemoji
+  - jekyll-paginate
+
+# Pagination
+# paginate: 5 
 
 titles_from_headings:
   strip_title: true
   collections: true
 
+# Links which appear on the header
 header_pages:
   - redirect.html
   - archive.html
